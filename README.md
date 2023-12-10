@@ -9,4 +9,4 @@ The commands to run it on linux system is
  g++ main.cpp -o main.o<br>
  ./main.o B path to circuit file path to gate delays file path to delay constraint file path to minimum area file
 # Testcases
-We have given 4 testcases as a sample
+We have given 5 testcases as a sample
